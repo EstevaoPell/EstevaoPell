@@ -1,11 +1,15 @@
 # Olá, eu sou o Estêvão Pellegrino! 👋
 
-**Técnico em Desenvolvimento de Sistemas | Estudante de Ciências Matemática e da Terra na UFRJ**
+**Estudante da UFRJ | Programador de Eletrônica na Minerva BAJA | Técnico em Desenvolvimento de Sistemas**
 
 Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma oportunidade de um estágio ou de um primeiro emprego na área de tecnologia.
 
-## 👨‍💻 Sobre mim
-* Fiz curso no Sesi/Senai de Jacarepaguá onde eu também completei meu Ensino Médio, formando-me como Técnico em Desenvolvimento de Sistemas.
+## 🎯 O que estou fazendo no momento
+* **Graduação:** Cursando o 3º período do curso Bacharelado em Ciências Matemática e da Terra na UFRJ.
+* **Projeto de Extensão:** Atuo ativamente como programador na divisão de eletrônica da equipe **Minerva BAJA** (UFRJ).
+
+## 👨‍💻 Um pouco mais sobre mim
+* Fiz curso no Sesi/Senai de Jacarepaguá onde completei meu Ensino Médio, formando-me como Técnico em Desenvolvimento de Sistemas.
 * Tenho projetos de arduino com programação em C no site Tinkercad.
 * Já apresentei um projeto para empresários na sede do Senai no Centro da Cidade do Rio de Janeiro.
 * Aprendi a linguagem de programação Lua para programar um jogo no Roblox.
@@ -15,10 +19,9 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 * **Linguagens de Programação:** C, C++, Python, Java e Lua.
 * **Desenvolvimento e Web:** HTML e Flutter Flow.
 * **Banco de Dados:** Banco de Dados geral, MySQL e SQL.
-* **Sistemas e Ferramentas:** Linux, Arduino IDE, CLP e Microsoft Office.
+* **Sistemas e Ferramentas:** Windows, Linux, Arduino IDE/PlatformIO (Arduino e ESP32), CLP e Microsoft Office.
 
-## 🏆 Experiência e Premiações
-* **Equipe Minerva BAJA (UFRJ):** Atuação como programador na divisão de eletrônica.
+## 🏆 Experiências Anteriores e Premiações
 * **Mostra Nacional de Robótica 2022 (MNR):** Participei do projeto MNR 2022 na Universidade FEI em São Bernardo do Campo (SP). Junto com minha equipe, apresentamos nosso projeto do TBR de 2021 sobre trabalho infantil.
 * **Torneio Brasil Robótica 2021 (TBR):** Participei do TBR 2021 na equipe Alpha Byte. Eu e minha equipe ficamos em primeiro lugar na categoria de Tecnologia e Engenharia do nível HIGH.
 
@@ -36,6 +39,3 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 * **E-mail:** tevaopell@gmail.com.
 * **Telefone:** (+55) 21 9 8373-8529.
 * **LinkedIn:** [Estêvão Pellegrino](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-pellegrino-1b77ba26a/).
-
----
-⭐️ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
