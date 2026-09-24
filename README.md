@@ -37,5 +37,4 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 
 ## 📫 Contato
 * **E-mail:** tevaopell@gmail.com.
-* **Telefone:** (+55) 21 9 8373-8529.
 * **LinkedIn:** [Estêvão Pellegrino](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-pellegrino-1b77ba26a/).
