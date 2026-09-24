@@ -12,7 +12,7 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 * Criei uma máquina virtual no Google Cloud com sistema Linux para fazer um servidor de minecraft que funcionasse 24/7.
 
 ## 🚀 Habilidades Técnicas
-* **Linguagens de Programação:** C, C++, C#, Python, Java e Lua.
+* **Linguagens de Programação:** C, C++, Python, Java e Lua.
 * **Desenvolvimento e Web:** HTML e Flutter Flow.
 * **Banco de Dados:** Banco de Dados geral, MySQL e SQL.
 * **Sistemas e Ferramentas:** Linux, Arduino IDE, CLP e Microsoft Office.
