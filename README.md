@@ -19,7 +19,7 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 * **Linguagens de Programação:** C, C++, Python, Java e Lua.
 * **Desenvolvimento e Web:** HTML e Flutter Flow.
 * **Banco de Dados:** Banco de Dados geral, MySQL e SQL.
-* **Sistemas e Ferramentas:** Windows, Linux, Arduino IDE/PlatformIO (Arduino e ESP32), CLP e Microsoft Office.
+* **Sistemas e Ferramentas:** Git, Windows, Linux, Arduino IDE/PlatformIO (Arduino e ESP32), CLP e Microsoft Office.
 
 ## 🏆 Experiências Anteriores e Premiações
 * **Mostra Nacional de Robótica 2022 (MNR):** Participei do projeto MNR 2022 na Universidade FEI em São Bernardo do Campo (SP). Junto com minha equipe, apresentamos nosso projeto do TBR de 2021 sobre trabalho infantil.
