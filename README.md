@@ -18,6 +18,7 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 * **Sistemas e Ferramentas:** Linux, Arduino IDE, CLP e Microsoft Office.
 
 ## 🏆 Experiência e Premiações
+* **Equipe Minerva BAJA (UFRJ):** Atuação como programador na divisão de eletrônica.
 * **Mostra Nacional de Robótica 2022 (MNR):** Participei do projeto MNR 2022 na Universidade FEI em São Bernardo do Campo (SP). Junto com minha equipe, apresentamos nosso projeto do TBR de 2021 sobre trabalho infantil.
 * **Torneio Brasil Robótica 2021 (TBR):** Participei do TBR 2021 na equipe Alpha Byte. Eu e minha equipe ficamos em primeiro lugar na categoria de Tecnologia e Engenharia do nível HIGH.
 
