@@ -36,5 +36,5 @@ Sou um desenvolvedor de 21 anos de idade. Atualmente estou à procura de uma opo
 * **Inovação e Empreendedorismo:** Fev 2021 a Mai 2021 pelo Senai Jacarepaguá.
 
 ## 📫 Contato
-* **E-mail:** tevaopell@gmail.com.
-* **LinkedIn:** [Estêvão Pellegrino](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-pellegrino-1b77ba26a/).
+* [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tevaopell@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-pellegrino-1b77ba26a/)
